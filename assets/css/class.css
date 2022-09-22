@@ -24,3 +24,26 @@
 .menu-spacing {
     height: 65px;
 }
+
+body .full-width {
+    width: 100%;
+    flex: 1 1 100%;
+}
+
+.footer {
+    text-align: center;
+    font-size: 5rem;
+}
+
+.footer a {
+    color: var(--primary-color);
+}
+
+.footer p {
+    margin: 0;
+    padding: 3rem;
+}
+
+.heart {
+    color: red;
+}
